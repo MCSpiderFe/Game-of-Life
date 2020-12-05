@@ -1,0 +1,9 @@
+﻿  CellMap.cpp
+D:\Coding\C++\GameOfLife\GameOfLife\CellMap.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\C++\GameOfLife\GameOfLife\CellMap.cpp(39,11): warning C4101: 'y': unreferenced local variable
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameOfLife.vcxproj -> D:\Coding\C++\GameOfLife\Release\GameOfLife.exe

@@ -1,0 +1,6 @@
+﻿  CellMap.cpp
+D:\Coding\C++\GameOfLife\GameOfLife\CellMap.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\C++\GameOfLife\GameOfLife\CellMap.cpp(39,11): warning C4101: 'y': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  GameOfLife.vcxproj -> D:\Coding\C++\GameOfLife\Debug\GameOfLife.exe
